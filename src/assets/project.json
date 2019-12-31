@@ -1,0 +1,20 @@
+{
+    "category": [
+      { "id": 1, "title": "mens" },
+      { "id": 2, "title": "womens" },
+      { "id": 3, "title": "kids" },
+      { "id": 4, "title": "accessories" }
+    ],
+    "brand": [
+        { "id": 1, "title": "puma" },
+        { "id": 2, "title": "nike" },
+        { "id": 3, "title": "adidas" },
+        { "id": 4, "title": "killer jeans" }
+    ],
+    "product": [
+        { "id": 1, "title": "product 1","price":1000,"imgpath":"product1.jpg" },
+        { "id": 1, "title": "product 2","price":1200,"imgpath":"product1.jpg" },
+        { "id": 1, "title": "product 3" ,"price":1600,"imgpath":"product1.jpg"},
+        { "id": 1, "title": "product 4" ,"price":1800,"imgpath":"product1.jpg"}
+    ]
+}
