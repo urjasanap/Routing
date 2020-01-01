@@ -13,6 +13,8 @@ import { LoginComponent } from './login/login.component';
 import { CartComponent } from './cart/cart.component';
 import { PasswordComponent } from './password/password.component';
 import { HttpClientModule } from '@angular/common/http';
+import { PasswdComponent } from './passwd/passwd.component';
+import { LogoutComponent } from './logout/logout.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +27,9 @@ import { HttpClientModule } from '@angular/common/http';
     HomeComponent,
     LoginComponent,
     CartComponent,
-    PasswordComponent
+    PasswordComponent,
+    PasswdComponent,
+    LogoutComponent
   ],
   imports: [
     BrowserModule,
